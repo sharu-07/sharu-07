@@ -1,4 +1,4 @@
-# 💫 About Me:
+**# 💫 About Me:
 👋, I'm Sharath N<br>Full-Stack Web Developer | Turning ideas into powerful digital experiences
 
 
@@ -46,3 +46,4 @@
 [![](https://visitcount.itsvg.in/api?id=sharu-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
