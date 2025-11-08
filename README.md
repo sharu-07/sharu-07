@@ -10,7 +10,7 @@
 <a href="https://instagram.com/sharu__._.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharu__._.__" height="30" width="40" /></a>
 </p> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">I code in:</h3>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 
