@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 <h3 align="center">💻 Languages and Tools</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="border: none; outline: none;"/>
   </a>
