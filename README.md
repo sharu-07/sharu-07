@@ -3,7 +3,10 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharu__._.__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharath.n2005@gmail.com)
+<p align="left">
+<a href="https://instagram.com/sharu__._.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharu__._.__" height="30" width="40" /></a>
+</p>
+
 
 # 💻 Tech Stack:
 <h3 align="center">💻 Languages and Tools</h3>
