@@ -10,34 +10,21 @@
 <a href="https://instagram.com/sharu__._.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharu__._.__" height="30" width="40" /></a>
 </p> 
 
-
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38" />
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sharu-07?ext=contest&theme=dark)](https://leetcode.com/sharu-07)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sharu-07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sharu-07&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharu-07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
